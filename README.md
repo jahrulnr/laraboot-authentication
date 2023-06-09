@@ -23,6 +23,7 @@ cp .env.example .env
 
 # Open .env and set up the database
 
+php artisan key:generate
 php artisan storage:link
 php artisan migrate
 php artisan db:seed
