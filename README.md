@@ -36,3 +36,7 @@ Email: ```admin@demo.com``` <br>
 Password: ```123456``` <br/>
 
 Feel free to explore and modify this template to suit your needs.
+
+### Source:
+- [Laravel](https://github.com/laravel/laravel)
+- [SB Admin](https://github.com/StartBootstrap/startbootstrap-sb-admin)
