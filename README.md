@@ -16,7 +16,7 @@ This template provides the following features:
 ### Instalation
 To install and set up the template, follow these steps:
 ```sh
-git clone jahrulnr/laraboot-authentication
+git clone https://github.com/jahrulnr/laraboot-authentication.git
 cd  laraboot-authentication
 composer install
 cp .env.example .env
